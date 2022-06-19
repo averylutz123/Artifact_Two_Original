@@ -1,0 +1,2 @@
+# Artifact_Two_Original
+This repository contains the original files that were utilized for the enhancement of artifact two. Originally developed in February of 2022, this project contains for programs that demonstrate the capabilities and benefits of various data structures. Binary Search Trees, Hash Tables, Linked Lists, and Vectors are each examined in their own program where they can read contents from two excel files as well as search for and delete specific items.
